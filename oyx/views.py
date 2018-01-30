@@ -7,7 +7,7 @@ from django.views.decorators.csrf import csrf_exempt
 # Create your views here.
 
 
-WEIXIN_TOKEN = '1996829wangjiu'
+WEIXIN_TOKEN = 'XXXXXXXXXXXXXX'
 
 
 class WeChatView(View):
