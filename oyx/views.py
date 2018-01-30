@@ -11,9 +11,9 @@ from wechatpy.replies import TextReply
 # Create your views here.
 
 
-WEIXIN_TOKEN = '1996829wangjiu'
-AppID = 'wx570b8fb034b12653'
-AppSecret = '3e6c56c57e0a44fde641d14892f991a3'
+WEIXIN_TOKEN = 'xxxxxxxxxxxxxxxxx'
+AppID = 'xxxxxxxxxxxxx'
+AppSecret = 'xxxxxxxxxxxx'
 
 
 class WeChatView(View):
